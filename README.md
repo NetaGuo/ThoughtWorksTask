@@ -1,3 +1,5 @@
+# repository url
+    https://github.com/NetaGuo/ThoughtWorksTask
 # feature
     viewModel,
     liveData,
@@ -11,3 +13,7 @@
     Glide
 # will do
     build.gradle convert to build.gradle.kts
+    signed apk
+    setting for debug/release
+    .......
+
