@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ThoughtWorksTask</string>
+    <string name="loading_more">正在加载...</string>
+    <string name="no_loading_data">没有更多数据</string>
+    <string name="error_loading_data">获取数据失败,点击重试</string>
+    <string name="add_loading">点击查看更多</string>
+</resources>

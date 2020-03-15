@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="theme_blue">#3389CA</color>
+    <color name="firstLevelText">#333333</color>
+    <color name="secondLevelText">#666666</color>
+    <color name="thirdLevelText">#999999</color>
+    <color name="config_bg">#F4F5F8</color>
+    <color name="tip">#525D66</color>
+    <color name="border">#DDDDDD</color>
+
+</resources>
