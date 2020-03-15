@@ -27,7 +27,7 @@ class ImageViewHolder(container: View) : BaseViewHolder(container) {
                 }
             }
             ivImageItem.layoutParams = lp
-            Glide.with(mContext).load(itemData.url).placeholder(R.drawable.ic_image)
+            Glide.with(activity).load(itemData.url).placeholder(R.drawable.ic_image)
                 .error(R.drawable.ic_image).into(ivImageItem)
         }
     }

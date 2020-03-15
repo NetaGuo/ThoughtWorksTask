@@ -29,7 +29,7 @@ class TwitterViewHolder(container: View) : BaseViewHolder(container) {
                 tvContent.gone()
             }
             //avatar
-            Glide.with(mContext).load(itemData.sender.avatar).placeholder(R.drawable.ic_avatar)
+            Glide.with(activity).load(itemData.sender.avatar).placeholder(R.drawable.ic_avatar)
                 .error(R.drawable.ic_avatar).into(ivAvatar)
             //images
             if (!itemData.images.isNullOrEmpty()) {
